@@ -145,7 +145,7 @@ body {
   
   .imag{
       position: absolute;
-      top: 15%;
+      top: 18%;
       left: 50%;
       transform: translate(-50%, -50%);
       border-radius: 50%;
@@ -162,7 +162,7 @@ body {
       position: absolute;
       width: 24%;
       top: 3%;
-      left: 10%;
+      left: 1%;
       border-radius: 50%;
       z-index: 1;
   }
@@ -176,7 +176,7 @@ body {
       position: absolute;
       width: 25%;
       top: 3%;
-      left: 70%;
+      left: 75%;
       border-radius: 50%;
       z-index: 1;
   }
@@ -189,7 +189,7 @@ body {
   .icwa{
       position: absolute;
       width: 24%;
-      top: 26%;
+      top: 34%;
       left: 50%;
       transform: translate(-50%, -50%);
       border-radius: 50%;
@@ -204,8 +204,8 @@ body {
   .icti{
       position: absolute;
       width: 25%;
-      top: 26%;
-      left: 16%;
+      top: 34%;
+      left: 10%;
       transform: translate(-50%, -50%);
       border-radius: 50%;
       z-index: 1;
@@ -219,8 +219,8 @@ body {
   .icth{
       position: absolute;
       width: 24%;
-      top: 26%;
-      left: 80%;
+      top: 34%;
+      left: 85%;
       transform: translate(-50%, -50%);
       border-radius: 50%;
       z-index: 1;
@@ -234,7 +234,7 @@ body {
   .info{
       position: absolute;
       left: 5%;
-      top: 30%;
+      top: 40%;
       color: rgb(205, 221, 235);
       background-color: rgba(159, 180, 180, 0.123);
       z-index:3;

@@ -186,7 +186,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(image/bg3.jpeg);
+    background-image: url(image/Light.jpeg);
     height: 1300px;
     width: 100vw;
   }
@@ -207,7 +207,7 @@ body {
       /* top: 100px; */
       width: 90%;
       height: 2000px;
-      background: url(image/bg6.jpeg);
+      background: url(image/Light.jpeg);
       /* z-index: ; */
   }
   
@@ -368,7 +368,18 @@ body {
 }
 
 @media (min-width: 300px) and (max-width:600px) {
-
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(image/Light.jpeg);
+    
+    /* background-repeat: no-repeat; */
+    
+    height: 1450px;
+    /* height: 100vh; */
+    
+  }
 .title{
     
     position: absolute;
@@ -409,7 +420,18 @@ body {
 }
 
 @media (min-width: 300px) and (max-width:425px) {
-
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(image/Light.jpeg);
+    
+    /* background-repeat: no-repeat; */
+    
+    height: 1450px;
+    /* height: 100vh; */
+    
+  }
 .title{
     
     position: absolute;
